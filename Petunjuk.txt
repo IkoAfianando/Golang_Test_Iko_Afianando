@@ -1,0 +1,2 @@
+Masing masing folder berisi soal dan jawaban. 
+Jawab permasalahan yang tertulis pada file Soal.png dengan melengkapi coding pada file jawaban.go
